@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hello! I'm Bo Wen, a PhD Student in University of Rochester, currently focusing on Ultrasound Imaging with Machine Learning. I love building innovative solutions, learning new technologies, and contributing to the open-source community.
+Hello! I'm Bo Wen, a PhD candidate in University of Rochester, currently focusing on Ultrasound Imaging with Machine Learning. I love building innovative solutions, learning new technologies, and contributing to the open-source community.
 
 ## 🔧 Technologies & Tools
 - Programming Languages : Python, Matlab.
